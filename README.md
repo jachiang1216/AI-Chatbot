@@ -1,3 +1,5 @@
 # AI-Chatbot
 # Overview
-Welcome to AI-Chatbot, an artifical intelligence chat bot designed to keep you entertained.
+Welcome to AI-Chatbot, an artificial intelligence chat bot designed to keep you entertained. AI-Chatbot offers a helping hand through the following features:
+- Music Sharing via Youtube
+ 
