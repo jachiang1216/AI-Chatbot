@@ -7,7 +7,7 @@ nlu_interpreter = RasaNLUInterpreter('./models/nlu/default/BotNLU')
 action_endpoint = EndpointConfig(url='http://localhost:5055/webhook')
 agent = Agent.load('./models/dialogue', interpreter=nlu_interpreter, action_endpoint=action_endpoint)
 
-input_channel = SlackInput('xoxb-628393460407-620232368865-HEJRms7SMQKDdXYbNetbO2sX')
+input_channel = SlackInput('******************************************************')  # Enter your Bot Token from Slack Website here
 
 agent.handle_channels([input_channel], 5004, serve_forever=True)
 
