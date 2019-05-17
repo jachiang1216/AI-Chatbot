@@ -1,0 +1,2263 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "tell me a joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "tell a joke for me",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "i want to hear a joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "tell a joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "be funny",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "be comedic",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "say a funny joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "jokes please",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "i want you to tell me a joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "tell me something funny",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "say something funny",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "say something funny",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "joke about something",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "Let me hear a joke from you",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "be funny for me",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "give me a good joke",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "can you make me laugh",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "make me laugh",
+        "intent": "comedy",
+        "entities": []
+      },
+      {
+        "text": "See you",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "See ya",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Bai",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Baii",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "intent": "goodbye",
+        "text": "laterz"
+      },
+      {
+        "text": "Byee",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "See you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "See yuh",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Cya",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Got to go now. Bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Good night",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "See you",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Cool Thanks. Later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Nothing. Imma go",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bai bai",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Im going to go now. good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye bot",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "see you",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good niiight",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye chatbot",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "later chatbot",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "im gonna go bot. bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "time to go",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hii",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hiya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Heey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hey you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Halo",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "What's up my homie",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hello again",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hey Diddly",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "heeya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hai Hai",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey what's up my homie",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy partner",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hiiiiya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "play rolling stones by bob dylan",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 19,
+            "value": "rolling stones",
+            "entity": "song"
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "value": "bob dylan",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play hello by adele",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "hello",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 19,
+            "value": "adele",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play gospel by rich brian",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "gospel",
+            "entity": "song"
+          },
+          {
+            "start": 15,
+            "end": 25,
+            "value": "rich brian",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play billie jean by michael jackson",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 16,
+            "value": "billie jean",
+            "entity": "song"
+          },
+          {
+            "start": 20,
+            "end": 35,
+            "value": "michael jackson",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play t-shirt by migos",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "t-shirt",
+            "entity": "song"
+          },
+          {
+            "start": 16,
+            "end": 21,
+            "value": "migos",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play bank account by 21 savage",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "bank account",
+            "entity": "song"
+          },
+          {
+            "start": 21,
+            "end": 30,
+            "value": "21 savage",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play party monster by the weeknd",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "party monster",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 32,
+            "value": "the weeknd",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play spanish castle magic by jimi hendrix",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 25,
+            "value": "spanish castle magic",
+            "entity": "song"
+          },
+          {
+            "start": 29,
+            "end": 41,
+            "value": "jimi hendrix",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play alone by marshmello",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "alone",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "value": "marshmello",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play ice cream cake by red velvet",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 19,
+            "value": "ice cream cake",
+            "entity": "song"
+          },
+          {
+            "start": 23,
+            "end": 33,
+            "value": "red velvet",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play we are family by sister sledge",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "we are family",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 35,
+            "value": "sister sledge",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play god's plan by drake",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "god's plan",
+            "entity": "song"
+          },
+          {
+            "start": 19,
+            "end": 24,
+            "value": "drake",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play crave by tove lo",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "crave",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "value": "tove lo",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play left right left by charlie puth",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 20,
+            "value": "left right left",
+            "entity": "song"
+          },
+          {
+            "start": 24,
+            "end": 36,
+            "value": "charlie puth",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play 5 days in may by blue rodeo",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "5 days in may",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 32,
+            "value": "blue rodeo",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play slide by the goo goo dolls",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "slide",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 31,
+            "value": "the goo goo dolls",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play panda by desiigner",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "panda",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 23,
+            "value": "desiigner",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play she said by brie larson",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "she said",
+            "entity": "song"
+          },
+          {
+            "start": 17,
+            "end": 28,
+            "value": "brie larson",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play when i'm gone by wiz khalifa",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "when i'm gone",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 33,
+            "value": "wiz khalifa",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play new morning by bob dylan",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 16,
+            "value": "new morning",
+            "entity": "song"
+          },
+          {
+            "start": 20,
+            "end": 29,
+            "value": "bob dylan",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play moment 4 life by nicki minaj",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "moment 4 life",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 33,
+            "value": "nicki minaj",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play come together by the beatles",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "come together",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 33,
+            "value": "the beatles",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play come back home by 2ne1",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 19,
+            "value": "come back home",
+            "entity": "song"
+          },
+          {
+            "start": 23,
+            "end": 27,
+            "value": "2ne1",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play juice wrld's empty",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "juice wrld",
+            "entity": "artist"
+          },
+          {
+            "start": 18,
+            "end": 23,
+            "value": "empty",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play nav's champion",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "nav",
+            "entity": "artist"
+          },
+          {
+            "start": 11,
+            "end": 19,
+            "value": "champion",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play vinida's get freaky with you",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "vinida",
+            "entity": "artist"
+          },
+          {
+            "start": 14,
+            "end": 33,
+            "value": "get freaky with you",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play pnb rock's horses",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "pnb rock",
+            "entity": "artist"
+          },
+          {
+            "start": 16,
+            "end": 22,
+            "value": "horses",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play jay park's soju",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "jay park",
+            "entity": "artist"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "value": "soju",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play the beatles' let it be",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 16,
+            "value": "the beatles",
+            "entity": "artist"
+          },
+          {
+            "start": 18,
+            "end": 27,
+            "value": "let it be",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play in your arms by nico & vinz",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "in your arms",
+            "entity": "song"
+          },
+          {
+            "start": 21,
+            "end": 32,
+            "value": "nico & vinz",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play kris wu's like that",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "kris wu",
+            "entity": "artist"
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "value": "like that",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play old town road by lil nas x",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "old town road",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 31,
+            "value": "lil nas x",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play get freaky with you by vinida",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 24,
+            "value": "get freaky with you",
+            "entity": "song"
+          },
+          {
+            "start": 28,
+            "end": 34,
+            "value": "vinida",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "can you play empty by juice wrld?",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "empty",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 32,
+            "value": "juice wrld",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "i want to listen to wind cries mary by jimi hendrix",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 20,
+            "end": 35,
+            "value": "wind cries mary",
+            "entity": "song"
+          },
+          {
+            "start": 39,
+            "end": 51,
+            "value": "jimi hendrix",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "play bob dylan's saved",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "bob dylan",
+            "entity": "artist"
+          },
+          {
+            "start": 17,
+            "end": 22,
+            "value": "saved",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play katy perry's firework",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "katy perry",
+            "entity": "artist"
+          },
+          {
+            "start": 18,
+            "end": 26,
+            "value": "firework",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "play vinida's get freaky",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "vinida",
+            "entity": "artist"
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "value": "get freaky",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "i want to hear old town road by lil nas x",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 15,
+            "end": 28,
+            "value": "old town road",
+            "entity": "song"
+          },
+          {
+            "start": 32,
+            "end": 41,
+            "value": "lil nas x",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "I want to listen to old town road",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 20,
+            "end": 33,
+            "value": "old town road",
+            "entity": "song"
+          }
+        ]
+      },
+      {
+        "text": "I want to hear betrayed by lil xan",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "betrayed",
+            "entity": "song"
+          },
+          {
+            "start": 27,
+            "end": 34,
+            "value": "lil xan",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "please play i don't die by joyner lucas",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 12,
+            "end": 23,
+            "value": "i don't die",
+            "entity": "song"
+          },
+          {
+            "start": 27,
+            "end": 39,
+            "value": "joyner lucas",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "can you play origin by electric joy ride",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "origin",
+            "entity": "song"
+          },
+          {
+            "start": 23,
+            "end": 40,
+            "value": "electric joy ride",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "i want to listen to lady by exid",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "lady",
+            "entity": "song"
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "value": "exid",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "i want to listen to wonderwall by oasis",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 20,
+            "end": 30,
+            "value": "wonderwall",
+            "entity": "song"
+          },
+          {
+            "start": 34,
+            "end": 39,
+            "value": "oasis",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "please play get freaky with you by vinida",
+        "intent": "play",
+        "entities": [
+          {
+            "start": 12,
+            "end": 31,
+            "value": "get freaky with you",
+            "entity": "song"
+          },
+          {
+            "start": 35,
+            "end": 41,
+            "value": "vinida",
+            "entity": "artist"
+          }
+        ]
+      },
+      {
+        "text": "!stop",
+        "intent": "stop",
+        "entities": []
+      },
+      {
+        "text": "stop",
+        "intent": "stop",
+        "entities": []
+      },
+      {
+        "text": "show me a picture of a dog",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "I need a picture of a cat",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "cat",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "show me a dog",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "a dog please",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 2,
+            "end": 5,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "i want to see a kitty",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "kitty",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "cat pics pls",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "cat",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "dog pics pls",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "dog pictures ",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "kitten pictures",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "kitten",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "i want to see doggos",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "doggos",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "cat",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "cat",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "dog",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "doggo",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "doggo",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "pups",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "pups",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "puppy ",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "puppy",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "i want puppy pics",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 7,
+            "end": 12,
+            "value": "puppy",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "text": "kitten pictures :D",
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "kitten",
+            "entity": "animal"
+          }
+        ]
+      },
+      {
+        "intent": "greet",
+        "text": "Hiiiiya"
+      },
+      {
+        "intent": "greet",
+        "text": "hiiiiiiiiiiiiiiiiiiiii boy"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me a pic of a cat"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "give me a pic of kitties"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "let me see a doggo"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want to see a doggy"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "cat pics"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me doggos"
+      },
+      {
+        "intent": "greet",
+        "text": "hiiiiiiiiiiiiiiiiiiiii boy"
+      },
+      {
+        "intent": "greet",
+        "text": "hiiiiiiiiiiiya bot"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me a pic of a cat"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "give me a pic of kitties"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "let me see a doggo"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want to see a doggy"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "cat pics"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me doggos"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me dogs"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want to see a doggo"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "doggy pics please"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me puppies"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "kitty pics plz"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me cats"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "link a cat pic for me"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 7,
+            "end": 12,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want doggy pics please"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me pics of cats"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "pics of dogs"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 10,
+            "end": 15,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "give me a doggy to look at"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "cats",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want to look at kittens"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show cute puppies"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "doggies",
+            "entity": "animal"
+          }
+        ],
+        "text": "show cute doggies"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "show me pictures of cute dogs"
+      },
+      {
+        "intent": "picture",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "shibes",
+            "entity": "animal"
+          }
+        ],
+        "text": "pups"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "bob dylan",
+            "entity": "artist"
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "value": "rolling stones",
+            "entity": "song"
+          }
+        ],
+        "text": "play bob dylan's rolling stones"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 26,
+            "value": "game of thrones theme",
+            "entity": "song"
+          }
+        ],
+        "text": "play game of thrones theme"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "lil uzi vert",
+            "entity": "artist"
+          },
+          {
+            "start": 20,
+            "end": 33,
+            "value": "that's a rack",
+            "entity": "song"
+          }
+        ],
+        "text": "play lil uzi vert's that's a rack"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "stars over me",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 26,
+            "value": "bol4",
+            "entity": "artist"
+          }
+        ],
+        "text": "play stars over me by bol4"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "that's a rack",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 34,
+            "value": "lil uzi vert",
+            "entity": "artist"
+          }
+        ],
+        "text": "play that's a rack by lil uzi vert"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "duck song",
+            "entity": "song"
+          },
+          {
+            "start": 18,
+            "end": 29,
+            "value": "forrestfire",
+            "entity": "artist"
+          }
+        ],
+        "text": "play duck song by forrestfire"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 44,
+            "value": "league of legends champion select theme",
+            "entity": "song"
+          }
+        ],
+        "text": "play league of legends champion select theme"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 19,
+            "value": "fortnite theme",
+            "entity": "song"
+          }
+        ],
+        "text": "play fortnite theme"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "ode to joy",
+            "entity": "song"
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "value": "beethoven",
+            "entity": "artist"
+          }
+        ],
+        "text": "play ode to joy by beethoven"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "mozart",
+            "entity": "artist"
+          },
+          {
+            "start": 14,
+            "end": 41,
+            "value": "twinkle twinkle little star",
+            "entity": "song"
+          }
+        ],
+        "text": "play mozart's twinkle twinkle little star"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "blue in green",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 33,
+            "value": "miles davis",
+            "entity": "artist"
+          }
+        ],
+        "text": "play blue in green by miles davis"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "say you won't",
+            "entity": "song"
+          },
+          {
+            "start": 22,
+            "end": 33,
+            "value": "brasstracks",
+            "entity": "artist"
+          }
+        ],
+        "text": "play say you won't by brasstracks"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "dna",
+            "entity": "song"
+          },
+          {
+            "start": 12,
+            "end": 15,
+            "value": "bts",
+            "entity": "artist"
+          }
+        ],
+        "text": "play dna by bts"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "van morrison",
+            "entity": "artist"
+          },
+          {
+            "start": 20,
+            "end": 36,
+            "value": "someone like you",
+            "entity": "song"
+          }
+        ],
+        "text": "play van morrison's someone like you"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "take my hand",
+            "entity": "song"
+          },
+          {
+            "start": 21,
+            "end": 33,
+            "value": "johnny balik",
+            "entity": "artist"
+          }
+        ],
+        "text": "play take my hand by johnny balik"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "by2",
+            "entity": "artist"
+          },
+          {
+            "start": 11,
+            "end": 15,
+            "value": "2020",
+            "entity": "song"
+          }
+        ],
+        "text": "play by2's 2020"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 19,
+            "value": "drop pop candy",
+            "entity": "song"
+          }
+        ],
+        "text": "play drop pop candy"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "wizet",
+            "entity": "artist"
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "value": "forgetfulness",
+            "entity": "song"
+          }
+        ],
+        "text": "play wizet's forgetfulness"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "avril lavigne",
+            "entity": "artist"
+          },
+          {
+            "start": 21,
+            "end": 31,
+            "value": "girlfriend",
+            "entity": "song"
+          }
+        ],
+        "text": "play avril lavigne's girlfriend"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "golden",
+            "entity": "song"
+          },
+          {
+            "start": 15,
+            "end": 31,
+            "value": "parade of lights",
+            "entity": "artist"
+          }
+        ],
+        "text": "play golden by parade of lights"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "goodbye 20",
+            "entity": "song"
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "value": "lim kim",
+            "entity": "artist"
+          }
+        ],
+        "text": "play goodbye 20 by lim kim"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "gooey",
+            "entity": "song"
+          },
+          {
+            "start": 14,
+            "end": 27,
+            "value": "glass animals",
+            "entity": "artist"
+          }
+        ],
+        "text": "play gooey by glass animals"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 27,
+            "value": "heart heart heartbreak",
+            "entity": "song"
+          },
+          {
+            "start": 31,
+            "end": 46,
+            "value": "boys like girls",
+            "entity": "artist"
+          }
+        ],
+        "text": "play heart heart heartbreak by boys like girls"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "holy key",
+            "entity": "song"
+          },
+          {
+            "start": 17,
+            "end": 26,
+            "value": "dj khaled",
+            "entity": "artist"
+          }
+        ],
+        "text": "play holy key by dj khaled"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "imdabes",
+            "entity": "song"
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "value": "gmcfosho",
+            "entity": "artist"
+          }
+        ],
+        "text": "play imdabes by gmcfosho"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "flo rida",
+            "entity": "artist"
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "value": "my house",
+            "entity": "song"
+          }
+        ],
+        "text": "play flo rida's my house"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "katy perry",
+            "entity": "artist"
+          },
+          {
+            "start": 18,
+            "end": 23,
+            "value": "pearl",
+            "entity": "song"
+          }
+        ],
+        "text": "play katy perry's pearl"
+      },
+      {
+        "intent": "play",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "pop 101",
+            "entity": "song"
+          },
+          {
+            "start": 16,
+            "end": 26,
+            "value": "anami vice",
+            "entity": "artist"
+          }
+        ],
+        "text": "play pop 101 by anami vice"
+      },
+      {
+        "intent": "stop",
+        "text": "!stop"
+      },
+      {
+        "intent": "stop",
+        "text": "stop"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "shibes",
+        "synonyms": [
+          "dog",
+          "doggos",
+          "doggo",
+          "pup",
+          "pups",
+          "puppy",
+          "dogs",
+          "doggy",
+          "puppies"]
+      },
+      {
+        "value": "cats",
+        "synonyms": [
+          "cat",
+          "cats",
+          "kitten",
+          "kittens",
+          "kitty",
+          "kitties"]
+      }
+    ]
+  }
+}

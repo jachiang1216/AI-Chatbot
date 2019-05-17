@@ -1,0 +1,202 @@
+## intent:comedy
+- tell me a joke
+- tell a joke for me
+- joke
+- i want to hear a joke
+- tell a joke
+- be funny
+- be comedic
+- say a funny joke
+- jokes please
+- i want you to tell me a joke
+- tell me something funny
+- say something funny
+- say something funny
+- joke about something
+- Let me hear a joke from you
+- be funny for me
+- give me a good joke
+- can you make me laugh
+- make me laugh
+
+## intent:goodbye
+- See you
+- Bye bye
+- Bye
+- See ya
+- Later
+- Goodbye
+- Bai
+- Baii
+- Byee
+- See you later
+- See yuh
+- Cya
+- Got to go now. Bye
+- Good night
+- See you
+- Cool Thanks. Later
+- Nothing. Imma go
+- bye bye bye
+- good bye
+- bye
+- bai bai
+- Im going to go now. good bye
+- bye bot
+- see you
+- good niiight
+- bye chatbot
+- later chatbot
+- bye
+- im gonna go bot. bye
+- time to go
+- c u
+- SEE YA
+- laterz
+
+## intent:greet
+- Hello
+- Hi
+- Hii
+- Hiya
+- Hey
+- Heey
+- Greetings
+- Hey you
+- Halo
+- Hello again
+- Hi
+- Hey Diddly
+- heeya
+- Hai Hai
+- hi bot
+- howdy partner
+- howdy
+- hello
+- Hiiiiya
+- hiiiiiiiiiiiiiiiiiiiii boy
+- hiiiiiiiiiiiya bot
+
+## intent:picture
+- show me a pic of a [cat](animal:cats)
+- give me a pic of [kitties](animal:cats)
+- let me see a [doggo](animal:shibes)
+- i want to see a [doggy](animal:shibes)
+- [cat](animal:cats) pics
+- show me [doggos](animal:shibes)
+- show me [dogs](animal:shibes)
+- i want to see a [doggo](animal:shibes)
+- [doggy](animal:shibes) pics please
+- show me [puppies](animal:shibes)
+- [kitty](animal:cats) pics plz
+- [dog](animal:shibes) picture
+- show me [cats](animal)
+- link a [cat](animal:cats) pic for me
+- i want [doggy](animal:shibes) pics please
+- show me pics of [cats](animal)
+- pics of [dogs](animal:shibes)
+- give me a [doggy](animal:shibes) to look at
+- i want to look at [kittens](animal:cats)
+- show cute [puppies](animal:shibes)
+- show cute [doggies](animal)
+- show me pictures of cute [dogs](animal:shibes)
+- [pups](animal:shibes)
+- show me [cats](animal)
+- show a [dog](animal:shibes) picture
+
+## intent:play
+- play [rolling stones](song) by [bob dylan](artist)
+- play [hello](song) by [adele](artist)
+- play [gospel](song) by [rich brian](artist)
+- play [billie jean](song) by [michael jackson](artist)
+- play [t-shirt](song) by [migos](artist)
+- play [bank account](song) by [21 savage](artist)
+- play [party monster](song) by [the weeknd](artist)
+- play [spanish castle magic](song) by [jimi hendrix](artist)
+- play [alone](song) by [marshmello](artist)
+- play [ice cream cake](song) by [red velvet](artist)
+- play [we are family](song) by [sister sledge](artist)
+- play [god's plan](song) by [drake](artist)
+- play [crave](song) by [tove lo](artist)
+- play [left right left](song) by [charlie puth](artist)
+- play [5 days in may](song) by [blue rodeo](artist)
+- play [slide](song) by [the goo goo dolls](artist)
+- play [panda](song) by [desiigner](artist)
+- play [she said](song) by [brie larson](artist)
+- play [when i'm gone](song) by [wiz khalifa](artist)
+- play [new morning](song) by [bob dylan](artist)
+- play [moment 4 life](song) by [nicki minaj](artist)
+- play [come together](song) by [the beatles](artist)
+- play [come back home](song) by [2ne1](artist)
+- play [juice wrld](artist)'s [empty](song)
+- play [nav](artist)'s [champion](song)
+- play [vinida](artist)'s [get freaky with you](song)
+- play [pnb rock](artist)'s [horses](song)
+- play [jay park](artist)'s [soju](song)
+- play [the beatles](artist)' [let it be](song)
+- play [in your arms](song) by [nico & vinz](artist)
+- play [kris wu](artist)'s [like that](song)
+- play [old town road](song) by [lil nas x](artist)
+- play [get freaky with you](song) by [vinida](artist)
+- can you play [empty](song) by [juice wrld](artist)?
+- i want to listen to [wind cries mary](song) by [jimi hendrix](artist)
+- play [bob dylan](artist)'s [saved](song)
+- play [katy perry](artist)'s [firework](song)
+- play [vinida](artist)'s [get freaky](song)
+- i want to hear [old town road](song) by [lil nas x](artist)
+- I want to listen to [old town road](song)
+- I want to hear [betrayed](song) by [lil xan](artist)
+- please play [i don't die](song) by [joyner lucas](artist)
+- can you play [origin](song) by [electric joy ride](artist)
+- i want to listen to [lady](song) by [exid](artist)
+- i want to listen to [wonderwall](song) by [oasis](artist)
+- please play [get freaky with you](song) by [vinida](artist)
+- play [hello](song) by [adele](artist)
+- play [bob dylan](artist)'s [rolling stones](song)
+- play [game of thrones theme](song)
+- play [lil uzi vert](artist)'s [that's a rack](song)
+- play [stars over me](song) by [bol4](artist)
+- play [that's a rack](song) by [lil uzi vert](artist)
+- play [duck song](song) by [forrestfire](artist)
+- play [league of legends champion select theme](song)
+- play [fortnite theme](song)
+- play [ode to joy](song) by [beethoven](artist)
+- play [mozart](artist)'s [twinkle twinkle little star](song)
+- play [blue in green](song) by [miles davis](artist)
+- play [say you won't](song) by [brasstracks](artist)
+- play [dna](song) by [bts](artist)
+- play [van morrison](artist)'s [someone like you](song)
+- play [take my hand](song) by [johnny balik](artist)
+- play [by2](artist)'s [2020](song)
+- play [drop pop candy](song)
+- play [wizet](artist)'s [forgetfulness](song)
+- play [avril lavigne](artist)'s [girlfriend](song)
+- play [golden](song) by [parade of lights](artist)
+- play [goodbye 20](song) by [lim kim](artist)
+- play [gooey](song) by [glass animals](artist)
+- play [heart heart heartbreak](song) by [boys like girls](artist)
+- play [holy key](song) by [dj khaled](artist)
+- play [imdabes](song) by [gmcfosho](artist)
+- play [flo rida](artist)'s [my house](song)
+- play [katy perry](artist)'s [pearl](song)
+- play [pop 101](song) by [anami vice](artist)
+
+## intent:stop
+- !stop
+- stop
+- stop
+
+## synonym:cats
+- cat
+- kitties
+- kitty
+- kittens
+
+## synonym:shibes
+- doggo
+- doggy
+- doggos
+- dogs
+- puppies
+- dog
+- pups
