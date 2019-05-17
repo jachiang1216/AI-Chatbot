@@ -17,6 +17,12 @@ To integrate the chatbot with Slack, we will need to first create the app and mo
 - Install and authorize the App in the workspace
 ### Ngrok
 Ngrok is essential to port communications between the python program and the Slack application
+- Go to https://ngrok.com/download and download Ngrok
+- Navigate to ngrok.exe directory and run ./ngrok <authtoken>
+- Start the public port: ./ngrok http 5004
+### Ngrok Deploying AI-Chatbot to Slack
+  
+
 
 ## 3. Credits
 Cat and Dog Pictures were queried through https://shibe.online/ (Shiba Inu API). Special thanks to Jammy for the shibes and Microsoft Research Asia et al for the cats!
