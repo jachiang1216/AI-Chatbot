@@ -7,6 +7,8 @@ AI-Chatbot offers a helping hand through the following features:
 - Humorous Jokes
 - Cat and Dog Picture Sharing
 
+![Alt Text](https://github.com/jachiang1216/ChatAI/blob/master/img/Demo_Chat.gif)t
+
 ## 2. Setup to Run Chatbot
 ### Slack API Settings
 To integrate the chatbot with Slack, we will need to first create the app and modify its settings/permissions
