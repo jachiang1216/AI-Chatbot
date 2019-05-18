@@ -1,0 +1,61 @@
+%YAML 1.1
+---
+actions:
+- actions.ActionComedy
+- actions.ActionStop
+- actions.ActionMusic
+- actions.ActionPicture
+- utter_greet
+- utter_goodbye
+config:
+  store_entities_as_slots: true
+entities:
+- animal
+- artist
+- song
+forms: []
+intents:
+- play:
+    use_entities: true
+- stop:
+    use_entities: true
+- picture:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- greet:
+    use_entities: true
+- comedy:
+    use_entities: true
+slots:
+  animal:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  artist:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  song:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_default:
+  - text: Sorry, I didn't know that
+  utter_goodbye:
+  - text: See you :(
+  - text: Bye
+  - text: Goodbye
+  - text: See ya later
+  - text: Catch ya later
+  - text: Later Human!
+  - text: Bai :D
+  utter_greet:
+  - text: Hey there! What can I do for you?
+  - text: What's up?
+  - text: How's it going?
+  - text: Hello
+  - text: Hi
+  - text: Greetings Human!
+  - text: Why hello der 8)

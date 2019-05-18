@@ -1,0 +1,29 @@
+{
+  "states": [
+    "intent_comedy",
+    "intent_goodbye",
+    "intent_greet",
+    "intent_picture",
+    "intent_play",
+    "intent_stop",
+    "entity_animal",
+    "entity_artist",
+    "entity_song",
+    "slot_animal_0",
+    "slot_artist_0",
+    "slot_song_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_revert_fallback_events",
+    "prev_action_default_ask_affirmation",
+    "prev_action_default_ask_rephrase",
+    "prev_actions.ActionComedy",
+    "prev_actions.ActionStop",
+    "prev_actions.ActionMusic",
+    "prev_actions.ActionPicture",
+    "prev_utter_greet",
+    "prev_utter_goodbye"
+  ]
+}
