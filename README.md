@@ -7,7 +7,7 @@ AI-Chatbot offers a helping hand through the following features:
 - Humorous Jokes
 - Cat and Dog Picture Sharing
 
-![Alt Text](https://github.com/jachiang1216/ChatAI/blob/master/img/Demo_Chat.gif)t
+![Alt Text](https://github.com/jachiang1216/ChatAI/blob/master/img/Demo_Chat.gif)
 
 ## 2. Setup to Run Chatbot
 ### Slack API Settings
