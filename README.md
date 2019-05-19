@@ -1,4 +1,4 @@
-# AI-Chatbot
+# ChatAI
 ## 1. Overview
 Welcome to AI-Chatbot, an artificial intelligence chat bot designed to keep you entertained. This Conversational Chatbot is coded for Slack 
 AI-Chatbot offers a helping hand through the following features:
